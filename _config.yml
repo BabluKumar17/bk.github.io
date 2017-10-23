@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
-title: Bablu Kumar
-description: I am a Python programmer and data science aspirant. 
+title: "Bablu Kumar"
+description: "I am a software developer, Python lover and data science enthusiast." 
 
 ```python
 def foo():
