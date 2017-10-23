@@ -1,3 +1,1 @@
-## Bablu Kumar
 
-Resume:
