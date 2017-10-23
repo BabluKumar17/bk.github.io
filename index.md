@@ -1,4 +1,4 @@
 
-![Bablu Kumar](https://i.imgur.com/wUlfESL.jpg=200x250)
+<img src='https://i.imgur.com/wUlfESL.jpg' width="48">
 
 
