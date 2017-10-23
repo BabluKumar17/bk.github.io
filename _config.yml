@@ -2,3 +2,9 @@ theme: jekyll-theme-slate
 
 title: Bablu Kumar
 description: I am a Python programmer and data science aspirant. 
+
+```python
+def foo():
+    if not bar:
+        return True
+```      
