@@ -2,11 +2,3 @@ theme: jekyll-theme-slate
 
 title: "Bablu Kumar"
 description: "I am a software developer, Python lover and data science enthusiast." 
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```     
