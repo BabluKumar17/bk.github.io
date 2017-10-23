@@ -1,4 +1,4 @@
 
-![Bablu Ku](https://i.imgur.com/wUlfESL.jpg | width=200)
+![Bablu Ku](https://i.imgur.com/wUlfESL.jpg=200*250)
 
 
