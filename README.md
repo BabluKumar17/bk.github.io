@@ -1,4 +1,4 @@
 
-![Bablu K](bk.github.io/img/imag1.jpg)
+![Bablu Ku](https://github.com/BabluKumar17/bk.github.io/blob/gh-pages/img/imag1.jpg)
 
 
