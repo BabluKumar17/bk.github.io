@@ -5,7 +5,8 @@
 	<title>Bablu Kumar</title>
 </head>
 <body>
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/kxYYrR/imag1.png" alt="imag1" border="0"></a> <br>
+
+<img src="https://image.ibb.co/kxYYrR/imag1.png" alt="imag1" border="0"> <br>
 
 I love Python programming.
 
