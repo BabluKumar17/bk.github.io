@@ -2529,7 +2529,7 @@ footer .copyright span {
 footer .copyright span::after {
 	content: "|";
 	display: inline-block;
-	position: center;
+	vertical-align:bottom;
 	color: rgba(0,0,0);
 }
 footer .copyright span:last-child::after {
