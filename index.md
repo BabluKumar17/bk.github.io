@@ -1,5 +1,5 @@
 
-<img src='https://i.imgur.com/Se69RUF.jpg' align="LEFT" width="175"> <br>
+<img src='https://imgur.com/a/K1EI9' align="LEFT" width="175"> <br>
 
 I love Python programming.
 
