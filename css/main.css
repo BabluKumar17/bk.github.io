@@ -2525,15 +2525,20 @@ footer .footer-social li a {
 }
 footer .copyright span {
 	display: inline-block;
+	vertical-align:bottom;
+	text-align: center;
 }
 footer .copyright span::after {
 	content: "|";
 	display: inline-block;
 	vertical-align:bottom;
+	text-align: center;
 	color: rgba(0,0,0);
 }
 footer .copyright span:last-child::after {
 	display: none;
+	vertical-align:bottom;
+	text-align: center;
 }
 
 /**
